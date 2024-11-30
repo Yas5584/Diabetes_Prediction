@@ -1,0 +1,7 @@
+flask
+pandas
+pickle 
+seaborn
+matpotlib
+numpy 
+pandas
