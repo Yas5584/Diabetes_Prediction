@@ -51,7 +51,7 @@ Flask: For building the web application (if applicable).
 
 🧑‍💻 How to Run the Project
 1. Clone the Repository
-git clone https://github.com/yourusername/diabetes-prediction-logistic.git
+git clone https://github.com/Yas5584/Diabetes_Prediction-using-Logistic-regression.git
 cd diabetes-prediction-logistic
 2. Install Dependencies
 Install all the required Python packages:
